@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/fortmea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fortmea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortmea&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortmea&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
 <div style="display: inline_block; background: linear-gradient(90deg, rgba(2,0,0,1) 0%, rgba(0,0,0,0.852000175070028) 100%);"><br>
   <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
