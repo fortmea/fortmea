@@ -1,4 +1,4 @@
-### Olá! Meu nome e João Walter Amadeu, e atualmente atuo como desenvolvedor Mobile.
+### Olá! Meu nome é João Walter Amadeu, e atualmente atuo como desenvolvedor Mobile.
 
 <div align="center">
   <a href="https://github.com/fortmea">
