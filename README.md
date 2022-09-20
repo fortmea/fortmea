@@ -18,7 +18,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33238565?v=4">
 </div>
 <div> 
-
+<br><br>
   <a href="https://instagram.com/jwalter.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.amadeu@unifio.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-walter-amadeu
