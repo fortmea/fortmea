@@ -1,11 +1,11 @@
-### Olá! Meu nome é João Walter Amadeu, e atualmente atuo como desenvolvedor Mobile.
+### Olá! Meu nome é João Walter Amadeu, desenvolvedor Mobile.
 
 <div align="center">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33238565?v=4">
   <a href="https://github.com/fortmea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fortmea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortmea&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&hide=javascript,html,css"/>
 </div>
+    <img alt="pic" align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/33238565?v=4">
 <div style="display: inline_block; background: linear-gradient(90deg, rgba(2,0,0,1) 0%, rgba(0,0,0,0.852000175070028) 100%);"><br>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter">
   <img alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk">
@@ -14,11 +14,6 @@
     <img alt="NextJS" src="https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=next.js&logoColor=black&color=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&color=yellow">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&labelColor=black&color=black">
-  
-
-
-  
-  
 </div>
 <div> 
 <br><br>
