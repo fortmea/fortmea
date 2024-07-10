@@ -1,5 +1,4 @@
 ### Olá! Meu nome é João Walter Amadeu, desenvolvedor Mobile.
-
 <div align="center">
   <a href="https://github.com/fortmea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fortmea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -18,6 +17,7 @@
 <div> 
 <br><br>
   <hr>
+  <img src="https://komarev.com/ghpvc/?username=fortmea&style=for-the-badge">
   <a href="https://instagram.com/jwalter.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.amadeu@unifio.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-walter-amadeu
